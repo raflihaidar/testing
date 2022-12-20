@@ -4,3 +4,4 @@ NIM : 1202220055
 Matkul Kesukaan : Alpro
 Makanan Kesukaan : Sate ayam
 Asal : Jember
+Hard Skill : HTML, CSS, JavaScript, React, Veu, C, C++, PHP.
