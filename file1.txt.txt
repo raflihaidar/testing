@@ -3,3 +3,4 @@ Kelas : IT-05-02
 NIM : 1202220055
 Matkul Kesukaan : Alpro
 Makanan Kesukaan : Sate ayam
+Asal : Jember
